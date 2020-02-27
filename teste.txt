@@ -1,0 +1,35 @@
+by: Antonio S. Montagner
+
+#encrypt
+key:ufsc
+input:missao secreta
+encryption:'IM', 'ES', 'AS', 'QU', 'GS', 'QG', 'ZH'
+
+#decrypt
+key:ufsc
+input:'IM', 'ES', 'AS', 'QU', 'GS', 'QG', 'ZH'
+decryption:'MI', 'SX', 'SA', 'OS', 'EC', 'RE', 'TA'
+
+
+#encrypt
+key:paralelepipedo
+input:hackerman
+encryption:'GR', 'BM', 'RE', 'GE', 'SV'
+
+#decrypt
+key:paralelepipedo
+input:gr bm re ge sv
+decryption:'HA', 'CK', 'ER', 'MA', 'NX'
+
+
+#encrypt
+key:labsec
+input:A cifra Playfair é uma cifra de encriptação manual em que pares de letras, ou dígrafos, são encriptados por vez ao invés de letra por letra como visto em cifras mais simples como a Cifra de César.
+
+encryption:'LD', 'MC', 'QB', 'VC', 'SW', 'DB', 'MP', 'HZ', 'KB', 'IP', 'MX', 'DK', 'BZ', 'SO', 'FP', 'PV', 'QS', 'DL', 'MO', 'SK', 'QE', 'EL', 'KR', 'ZH', 'QL', 'UB', 'AG', 'LE', 'SU', 'QB', 'EN', 'QH', 'FT', 'BD', 'NE', 'YB', 'EK', 'SO', 'FP', 'PV', 'QS', 'HK', 'LT', 'MU', 'ZL', 'WE', 'IO', 'IY', 'SE', 'HA', 'EL', 'RT', 'LQ', 'MU', 'EL', 'RT', 'LD', 'MO', 'IZ', 'NL', 'UN', 'BO', 'IP', 'MX', 'SA', 'KB', 'NL', 'YB', 'MI', 'VC', 'SE', 'HI', 'OM', 'LD', 'MC', 'QB', 'HA', 'HL', 'AS', 'XB'
+
+#decrypt
+key:labsec
+input:'LD', 'MC', 'QB', 'VC', 'SW', 'DB', 'MP', 'HZ', 'KB', 'IP', 'MX', 'DK', 'BZ', 'SO', 'FP', 'PV', 'QS', 'DL', 'MO', 'SK', 'QE', 'EL', 'KR', 'ZH', 'QL', 'UB', 'AG', 'LE', 'SU', 'QB', 'EN', 'QH', 'FT', 'BD', 'NE', 'YB', 'EK', 'SO', 'FP', 'PV', 'QS', 'HK', 'LT', 'MU', 'ZL', 'WE', 'IO', 'IY', 'SE', 'HA', 'EL', 'RT', 'LQ', 'MU', 'EL', 'RT', 'LD', 'MO', 'IZ', 'NL', 'UN', 'BO', 'IP', 'MX', 'SA', 'KB', 'NL', 'YB', 'MI', 'VC', 'SE', 'HI', 'OM', 'LD', 'MC', 'QB', 'HA', 'HL', 'AS', 'XB'
+
+decryption:'AC', 'IF', 'RA', 'PL', 'AY', 'FA', 'IR', 'EU', 'MA', 'CI', 'FR', 'AD', 'EX', 'EN', 'CR', 'IP', 'TA', 'CA', 'OM', 'AN', 'UA', 'LE', 'MQ', 'UE', 'PA', 'RE', 'SD', 'EL', 'ET', 'RA', 'SO', 'UD', 'GR', 'AF', 'OS', 'XS', 'AO', 'EN', 'CR', 'IP', 'TA', 'DO', 'SP', 'OR', 'VE', 'ZA', 'OI', 'NV', 'ES', 'DE', 'LE', 'TR', 'AP', 'OR', 'LE', 'TR', 'AC', 'OM', 'OV', 'IS', 'TO', 'EM', 'CI', 'FR', 'AS', 'MA', 'IS', 'XS', 'IM', 'PL', 'ES', 'CO', 'MO', 'AC', 'IF', 'RA', 'DE', 'CE', 'SA', 'RX'
